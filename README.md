@@ -1,4 +1,4 @@
-HMAC-base One-Time Passwords
+HMAC-based One-Time Passwords
 ===
 This project provides two Java classes that implement RFC 4226 and RFC 6238.
 

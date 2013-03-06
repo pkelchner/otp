@@ -16,6 +16,17 @@
 			<distribution>repo</distribution>
 		</license>
 	</licenses>
+	
+	<scm>
+		<connection>git://github.com/pkelchner/otp.git</connection>
+		<developerConnection>ssh://git@github.com/pkelchner/otp.git</developerConnection>
+		<url>https://github.com/pkelchner/otp</url>
+	</scm>
+	
+	<issueManagement>
+		<system>GitHub</system>
+		<url>https://github.com/pkelchner/otp/issues</url>
+	</issueManagement>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
